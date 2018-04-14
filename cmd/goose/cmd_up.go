@@ -1,8 +1,9 @@
 package main
 
 import (
-	"bitbucket.org/liamstask/goose/lib/goose"
 	"log"
+
+	"github.com/mauleyzaola/goose/lib/goose"
 )
 
 var upCmd = &Command{
